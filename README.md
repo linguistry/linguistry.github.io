@@ -4,6 +4,4 @@ Dr. Won is a visiting researcher at the Center for Educational Research and at A
 
 ### CV 
 
-### Courses [go](Course/README.md)
-
-### 
+### Courses
