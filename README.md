@@ -4,6 +4,8 @@ Yongkook Won (Ph.D. in Applied Linguistics) is a visiting researcher at the Cent
 #### CV : [CV](https://drive.google.com/file/d/1HvaawBzlBvii8Jc6vn78sOuS-cExvmU0/view?usp=sharing)
 #### Publications  
 + Google Scholar : [Y. Won](https://scholar.google.com/citations?user=DPPmVCkAAAAJ&hl=en&authuser=1) 
+#### Workshop  
++ [Introduction to Text Data Analysis (in Korean) (Nov. 2020)](https://youtube.com/playlist?list=PLEiZtveAYKFnU9fqjneGyYCroMH8hzoNP)
 
 #### Email 
 + linguistry AT GIYMEYL DAAT KAHM (in ARPAbet)
