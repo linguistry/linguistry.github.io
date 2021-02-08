@@ -8,6 +8,10 @@ Yongkook Won (Ph.D. in Applied Linguistics) is a visiting researcher at the Cent
 #### Workshop  
 + [Introduction to Text Data Analysis (in Korean) (Nov. 2020)](https://youtube.com/playlist?list=PLEiZtveAYKFnU9fqjneGyYCroMH8hzoNP)
 
+#### ELT Materials Development 
+##### How to develop a word list with word pronunciations (from online dictionaries) and example sentences (from self-developed corpora)
++ [python code for a word list development] (https://github.com/linguistry/Python4Linguistics/blob/main/01_Add_pronun_sent_git.ipynb)
+
 #### Email 
 + linguistry AT GIYMEYL DAAT KAHM (in ARPAbet)
 
