@@ -10,7 +10,7 @@ Yongkook Won (Ph.D. in Applied Linguistics) is a visiting researcher at the Cent
 
 #### Coding Examples for ELT
 + [Python code for a word list development](https://github.com/linguistry/Python4Linguistics/blob/main/01_Add_pronun_sent_git.ipynb)
-++ How to develop a word list with word pronunciations (from online dictionaries) and example sentences (from self-developed corpora)
+: How to develop a word list with word pronunciations (from online dictionaries) and example sentences (from self-developed corpora)
 
 
 #### Email 
