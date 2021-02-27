@@ -4,7 +4,6 @@ Yongkook Won (Ph.D. in Applied Linguistics) is a visiting researcher at the Cent
 #### CV : [CV_Yongkook Won](https://drive.google.com/file/d/1HvaawBzlBvii8Jc6vn78sOuS-cExvmU0/view?usp=sharing) 
 #### Email : linguistry AT GIYMEYL DAAT KAHM (in ARPAbet)
 #### Google Scholar : [Y. Won](https://scholar.google.com/citations?user=DPPmVCkAAAAJ&hl=en&authuser=1) 
-#### Email : linguistry AT GIYMEYL DAAT KAHM (in ARPAbet)
 
 #### Publications  
 + [**Won**, Y. (2020). The influence of raters’ topic familiarity on rater severity in a teaching simulation test for international teaching assistants. English Language Assessment. 15(2). 235-254.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002660677)  
