@@ -6,10 +6,10 @@ Yongkook Won (Ph.D. in Applied Linguistics) is a visiting researcher at the Cent
 
 #### Publications  
 **Won**, Y. & Kim, Y. (in press). Analysis of Korean English education research trends in English education journals. The Journal of the Korea Contents Association.  
-**Won**, Y. (2020). The influence of raters’ topic familiarity on rater severity in a teaching simulation test for international teaching assistants. English Language Assessment. 15(2). 235-254. 
-**Won**, Y. (2020). The effect of task complexity on test-takers’ performance in a performance-based L2 oral communication test for international teaching assistants. Journal of the Korea English Education Society, 19(1), 27-52. 
-**Won**, Y. (2019). The prediction of writing scores using vocabulary features in ESL university students’ essays. Modern English Education, 20(4), 31-40.
-**Won**, Y. (2008). Developing ELT vocabulary materials for high school teachers using English dictionaries on CD-ROM. Journal of Korealex, 12. 209-254.
+**Won**, Y. (2020). The influence of raters’ topic familiarity on rater severity in a teaching simulation test for international teaching assistants. English Language Assessment. 15(2). 235-254.  
+**Won**, Y. (2020). The effect of task complexity on test-takers’ performance in a performance-based L2 oral communication test for international teaching assistants. Journal of the Korea English Education Society, 19(1), 27-52.  
+**Won**, Y. (2019). The prediction of writing scores using vocabulary features in ESL university students’ essays. Modern English Education, 20(4), 31-40. 
+**Won**, Y. (2008). Developing ELT vocabulary materials for high school teachers using English dictionaries on CD-ROM. Journal of Korealex, 12. 209-254. 
 + Google Scholar : [Y. Won](https://scholar.google.com/citations?user=DPPmVCkAAAAJ&hl=en&authuser=1) 
 
 
