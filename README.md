@@ -6,7 +6,7 @@ Yongkook Won (Ph.D. in Applied Linguistics) is a visiting researcher at the Cent
 #### Google Scholar : [Y. Won](https://scholar.google.com/citations?user=DPPmVCkAAAAJ&hl=en&authuser=1) 
 
 #### Publications  
-+ [**Won**, Y., & Kim, Y. (2022). Analysis of research trends in Korean English education journals using topic modeling. Journal of the Korea Contents Association. 21(4). 50-59.]()
++ [**Won**, Y., & Kim, Y. (2021). Analysis of research trends in Korean English education journals using topic modeling. Journal of the Korea Contents Association. 21(4). 50-59.]()
 + [**Won**, Y. (2020). The influence of raters’ topic familiarity on rater severity in a teaching simulation test for international teaching assistants. English Language Assessment. 15(2). 235-254.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002660677)  
 + [**Won**, Y. (2020). The effect of task complexity on test-takers’ performance in a performance-based L2 oral communication test for international teaching assistants. Journal of the Korea English Education Society, 19(1), 27-52.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002559997)  
 + [**Won**, Y. (2019). The prediction of writing scores using vocabulary features in ESL university students’ essays. Modern English Education, 20(4), 31-40.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002526263)  
