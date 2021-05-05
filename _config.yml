@@ -2,7 +2,5 @@
 
 theme: minima
 
-#highlighter: rouge
+highlighter: rouge
 #markdown: kramdown
-
-exclude: ['README.md', 'LICENSE']
