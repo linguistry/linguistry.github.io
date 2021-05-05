@@ -1,6 +1,6 @@
-#name: Yongkook Won (PhD)
+name: Yongkook Won (PhD)
 
 theme: minima
 
-highlighter: rouge
+#highlighter: rouge
 #markdown: kramdown
