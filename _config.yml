@@ -1,12 +1,11 @@
 # # Jekyll configuration
 
-name: Yongkook Won (PhD)
-# description: A jekyll theme
+# name: Yongkook Won (PhD)
 
 theme: minima
 
-# highlighter: rouge
+highlighter: rouge
 # markdown: kramdown
 # gems: ['jekyll-paginate']
 
-# exclude: ['README.md', 'LICENSE']
+exclude: ['README.md', 'LICENSE']
