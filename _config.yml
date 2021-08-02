@@ -2,3 +2,10 @@ name: Yongkook Won (PhD)
 theme: minima
 #highlighter: rouge
 markdown: kramdown
+
+## 추가
+paginate: 5
+paginate_path: "/page/:num/"
+plugins:
+  ...
+  - jekyll-paginate
