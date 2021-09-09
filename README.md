@@ -6,6 +6,7 @@ Yongkook Won (Ph.D. in Applied Linguistics) is a visiting researcher at the Cent
 #### **Google Scholar** : [Y. Won](https://scholar.google.com/citations?user=DPPmVCkAAAAJ&hl=en&authuser=1) 
 
 #### **Publications**  
++ [Kim, S., Kim, H., Lee, Y., Kim, B., **Won**, Y., & Kim, B. (in press). Designing a large recording script for open-domain English speech synthesis. *Phonetics and Speech Sciences*]
 + [**Won**, Y. (in press). Differential use of reporting verbs in academic papers and personal blogs. *English Language & Literature Teaching, 27*(3),000-000.]()
 + [**Won**, Y., & Kim, Y. (2021). Analysis of research trends in Korean English education journals using topic modeling. *Journal of the Korea Contents Association, 21*(4), 50-59.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002711053)
 + [**Won**, Y. (2020). The influence of raters’ topic familiarity on rater severity in a teaching simulation test for international teaching assistants. *English Language Assessment, 15*(2), 235-254.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002660677)  
