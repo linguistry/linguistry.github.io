@@ -7,7 +7,7 @@ Yongkook Won (Ph.D. in Applied Linguistics) is a visiting researcher at the Cent
 
 #### **Publications**  
 + [Kim, S., Kim, H., Lee, Y., Kim, B., **Won**, Y., & Kim, B. (in press). Designing a large recording script for open-domain English speech synthesis. *Phonetics and Speech Sciences, 00*(0), 00-000.]()
-+ [**Won**, Y. (2021). Differential use of reporting verbs in academic papers and personal blogs. *English Language & Literature Teaching, 27*(3), 89-107.]()
++ [**Won**, Y. (2021). Differential use of reporting verbs in academic papers and personal blogs. *English Language & Literature Teaching, 27*(3), 89-107.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002757483)
 + [**Won**, Y., & Kim, Y. (2021). Analysis of research trends in Korean English education journals using topic modeling. *Journal of the Korea Contents Association, 21*(4), 50-59.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002711053)
 + [**Won**, Y. (2020). The influence of raters’ topic familiarity on rater severity in a teaching simulation test for international teaching assistants. *English Language Assessment, 15*(2), 235-254.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002660677)  
 + [**Won**, Y. (2020). The effect of task complexity on test-takers’ performance in a performance-based L2 oral communication test for international teaching assistants. *Journal of the Korea English Education Society, 19*(1), 27-52.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002559997) 
