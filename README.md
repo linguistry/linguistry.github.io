@@ -1,7 +1,7 @@
 #### **Yongkook Won (Ph.D.)**
 
 Yongkook Won (Ph.D. in Applied Linguistics) is a visiting researcher at the Center for Educational Research and at AI-based Education Research Center, Seoul National University, South Korea. His recent research focuses on investigating fairness in language testing, automated essay/speech assessment, and enhancing language teaching and learning using Computer-Assisted Language Learning (CALL) tools.  
-#### **CV** : [CV_Yongkook Won](https://drive.google.com/file/d/1L__e2faY0-YRGuRzV43taW7INJC9S6Gv/view?usp=sharing) 
+#### **CV** : [CV_Yongkook Won] 
 #### **Email** : linguistry AT GIYMEYL DAAT KAHM (in ARPAbet)
 #### **Google Scholar** : [Y. Won](https://scholar.google.com/citations?user=DPPmVCkAAAAJ&hl=en&authuser=1) 
 
