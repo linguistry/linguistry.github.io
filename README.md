@@ -15,7 +15,7 @@ Yongkook Won (Ph.D. in Applied Linguistics) is a visiting researcher at the Cent
 + **Won**, Y. (2008). Developing ELT vocabulary materials for high school teachers using English dictionaries on CD-ROM. *Journal of Korealex, 12*, 209-254. 
 
 #### **Teaching**  
-+ English Education & Big Data, Fall 2021, [International Graduate School of English](https://igse.ac.kr/), Seoul, S. Korea.
++ [English Education & Big Data, Fall 2021, International Graduate School of English](https://drive.google.com/file/d/1UBmTCIvtJws2IcoYs4djZQWmezsCS-Se/view?usp=sharing), Seoul, S. Korea.
 + Academic English for Graduate Students, Fall 2015 - Spring 2019. Iowa State University, Ames, IA, USA. 
 + Academic English for Undergraduate Students, Fall 2013 - Spring 2015. Iowa State University, Ames, IA, USA. 
 
