@@ -14,11 +14,15 @@ Yongkook Won (Ph.D. in Applied Linguistics) is a visiting researcher at the Cent
 + [**Won**, Y. (2019). The prediction of writing scores using vocabulary features in ESL university students’ essays. *Modern English Education, 20*(4), 31-40.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002526263)  
 + **Won**, Y. (2008). Developing ELT vocabulary materials for high school teachers using English dictionaries on CD-ROM. *Journal of Korealex, 12*, 209-254. 
 
+#### **Teaching**  
++ English Education & Big Data, Fall 2021, [International Graduate School of English](https://igse.ac.kr/), Seoul, S. Korea.
++ Academic English for Graduate Students, Fall 2015 - Spring 2019. Iowa State University, Ames, IA, USA. 
++ Academic English for Undergraduate Students, Fall 2013 - Spring 2015. Iowa State University, Ames, IA, USA. 
 
 #### **Workshop**  
 + [Introduction to Text Data Analysis (in Korean) (Nov. 2020)](https://youtube.com/playlist?list=PLEiZtveAYKFnU9fqjneGyYCroMH8hzoNP)
 
-#### **Coding Examples for ELT**
+#### **Coding Collections for ELT**
 + [Python code for a word list development](https://github.com/linguistry/Python4Linguistics/blob/main/01_Add_pronun_sent_git.ipynb): How to develop a word list with word pronunciations (from online dictionaries) and example sentences (from self-developed corpora)
 + [Python code for syllable counting using CMU dictionary](https://github.com/linguistry/Python4Linguistics/blob/main/02_syllable_count.ipynb)
 
