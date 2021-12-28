@@ -1,4 +1,4 @@
-# main links
+# main links #1228
 main:
   # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
@@ -12,3 +12,5 @@ main:
   #   url: /sitemap/
   - title: "About"
     url: /about/
+  - title: "Publication"
+    url: /publication/
