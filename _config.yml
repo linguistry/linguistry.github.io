@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Language Education & Data Analysis"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Yongkook Won (PhD)"
+name                     : "Yongkook Won"
 description              : "Automated Language Assessment"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -102,15 +102,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Yongkook Won (Phd)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "PhD in Language Assessment"
+  location         : "Seoul"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto: lin.guist.ry+github@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
