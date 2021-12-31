@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "neon" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Language Education & Text Data Analysis"
+title                    : "Linguistry - Language Assessment & Text Data Analysis"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Linguistry"
@@ -102,9 +102,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yongkook Won (Phd)"
+  name             : "Yongkook Won (phd)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD in Language Assessment"
+  bio              : "Language Assessment, Adaptive Language Testing and Learning"
   location         : "Seoul"
   email            :
   links:
