@@ -11,7 +11,7 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   - title: "About"
-    url: /_pages/About.md
+    url: /docs/_pages/about.md
   - title: "Publication"
     url: /publication/
   - title: "Teaching"
