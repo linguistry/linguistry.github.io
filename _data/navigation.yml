@@ -17,5 +17,7 @@ main:
   # - title: "Teaching"
   #   url: /teaching/
   - title: "Category"
-    url: /categories
+    url: /categories/
+  - title: "Tag"
+    url: /tags/
   
