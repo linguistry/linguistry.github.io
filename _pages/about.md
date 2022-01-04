@@ -1,6 +1,7 @@
 ---
-permalink: /about/
 title: "About"
+permalink: /about/
+layout: about
 author_profile: true
 sidebar_main: true
 ---
