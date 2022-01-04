@@ -1,7 +1,7 @@
 ---
 title: "About"
 permalink: /about/
-layout: categories
+layout: archive
 author_profile: true
 sidebar_main: true
 ---
