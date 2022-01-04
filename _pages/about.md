@@ -6,13 +6,10 @@ author_profile: true
 sidebar_main: true
 ---
 
-Yongkook Won (PhD in Applied Linguistics) is a visiting researcher at the [Center for Educational Research, Seoul National University](http://eduresearch.snu.ac.kr/main/main.php) and a lecturer at the [International Graduate School of English](https://igse.ac.kr/en/). His recent research focuses on investigating fairness in language testing, automated essay/speech assessment, and on enhancing language teaching and learning using Computer-Assisted Language Learning (CALL) tools.  
+I am a visiting researcher at the [Center for Educational Research, Seoul National University](http://eduresearch.snu.ac.kr/main/main.php) and a lecturer at the [International Graduate School of English](https://igse.ac.kr/en/). My recent research focuses on investigating fairness in language testing, automated essay/speech assessment, and on enhancing language teaching and learning using Computer-Assisted Language Learning (CALL) tools.  
 
 #### Education
-+ PhD in Applied Linguistics (Language Assessment)  2019
-+ MA in ELT Materials Development                   2009
-+ BS in Statistics                                  2011
-+ BA in English
++ PhD in Applied Linguistics (Language Assessment)  
 
 #### Publications
 + Kim, S., Ryu, N., & **Won**, Y.(2021). Reliability of web-based French phoneme perception test. *Journal of Digital Contents Society, 22*(12), 2099-2109.
@@ -24,10 +21,10 @@ Yongkook Won (PhD in Applied Linguistics) is a visiting researcher at the [Cente
 + [**Won**, Y. (2019). The prediction of writing scores using vocabulary features in ESL university students’ essays. *Modern English Education, 20*(4), 31-40.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002526263)  
 + **Won**, Y. (2008). Developing ELT vocabulary materials for high school teachers using English dictionaries on CD-ROM. *Journal of Korealex, 12*. 209-254.
 
-#### Research Projects
+#### Courses
++ [English Education & Big Data, Fall 2021, International Graduate School of English](https://drive.google.com/file/d/1UBmTCIvtJws2IcoYs4djZQWmezsCS-Se/view?usp=sharing), Seoul, S. Korea.
++ Academic English for Graduate Students, Fall 2015 - Spring 2019. Iowa State University, Ames, IA, USA. 
++ Academic English for Undergraduate Students, Fall 2013 - Spring 2015. Iowa State University, Ames, IA, USA.
 
-#### Teaching
-+ 
-
-#### Workshop  
-+ [Introduction to Text Data Analysis (in Korean) (Nov. 2020)](https://youtube.com/playlist?list=PLEiZtveAYKFnU9fqjneGyYCroMH8hzoNP)
+#### Workshops  
++ (Nov. 2020)[Introduction to Text Data Analysis](https://youtube.com/playlist?list=PLEiZtveAYKFnU9fqjneGyYCroMH8hzoNP) (in Korean)
