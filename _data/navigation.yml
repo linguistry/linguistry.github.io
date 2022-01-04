@@ -14,7 +14,7 @@ main:
   #   url: /publication/
   # - title: "Teaching"
   #   url: /teaching/
-  - title: "About"
+  - title: "About me"
     url: /about/
   - title: "Category"
     url: /categories/
