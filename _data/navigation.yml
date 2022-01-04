@@ -10,9 +10,14 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  # - title: "Publication"
+  #   url: /publication/
+  # - title: "Teaching"
+  #   url: /teaching/
   - title: "About"
-    url: /docs/_pages/about.md
-  - title: "Publication"
-    url: /publication/
-  - title: "Teaching"
-    url: /teaching/
+    url: /about/
+  - title: "Category"
+    url: /categories/
+  - title: "Tag"
+    url: /tags/
+  
