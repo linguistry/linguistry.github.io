@@ -10,12 +10,12 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  - title: "About"
-    url: /about/
   # - title: "Publication"
   #   url: /publication/
   # - title: "Teaching"
   #   url: /teaching/
+  - title: "About"
+    url: /about/
   - title: "Category"
     url: /categories/
   - title: "Tag"
