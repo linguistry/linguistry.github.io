@@ -10,8 +10,8 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  # - title: "About"
-  #   url: /about/about.md
+  - title: "About"
+    url: /about/about.md
   # - title: "Publication"
   #   url: /publication/
   # - title: "Teaching"
