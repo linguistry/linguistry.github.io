@@ -6,7 +6,6 @@ author_profile: true
 sidebar_main: true
 ---
 
-#### Introduction  
 Yongkook Won (Ph.D. in Applied Linguistics) is a visiting researcher at the [Center for Educational Research, Seoul National University](http://eduresearch.snu.ac.kr/main/main.php) and a lecturer at the [International Graduate School of English](https://igse.ac.kr/en/). His recent research focuses on investigating fairness in language testing, automated essay/speech assessment, and enhancing language teaching and learning using Computer-Assisted Language Learning (CALL) tools.  
 
 Google Scholar : [Y. Won](https://scholar.google.com/citations?user=DPPmVCkAAAAJ&hl=en&authuser=1) 
@@ -23,8 +22,8 @@ Google Scholar : [Y. Won](https://scholar.google.com/citations?user=DPPmVCkAAAAJ
 
 #### Research Projects
 
+#### Teaching
 
 
 #### Workshop  
 + [Introduction to Text Data Analysis (in Korean) (Nov. 2020)](https://youtube.com/playlist?list=PLEiZtveAYKFnU9fqjneGyYCroMH8hzoNP)
-
