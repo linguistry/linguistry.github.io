@@ -106,7 +106,7 @@ author:
   # avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   avatar           : "/assets/images/wonpic.jpg"
   bio              : "PhD in Applied Linguistics: Automated Language Assessment, Performance Language Assessment"
-  location         : "Seoul"
+  location         : "Seoul, South Korea"
   email            :
   links:
     - label: "Email"
