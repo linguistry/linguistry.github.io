@@ -113,7 +113,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto: lin.guist.ry+github@gmail.com"
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-google-scholar"
+      icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=DPPmVCkAAAAJ&hl=en&authuser=1"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
