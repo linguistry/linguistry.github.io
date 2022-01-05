@@ -14,10 +14,11 @@ main:
   #   url: /publication/
   # - title: "Teaching"
   #   url: /teaching/
-  - title: "About me"
+  - title: "About"
     url: /about/
   - title: "Posts"
     url: /categories/
   - title: "Tags"
     url: /tags/
-  
+  - title: "Links"
+    url: /link/
