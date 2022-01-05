@@ -144,6 +144,9 @@ footer:
    # - label: "Facebook"
     #  icon: "fab fa-fw fa-facebook-square"
       # url:
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=DPPmVCkAAAAJ&hl=en&authuser=1"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/linguistry"
