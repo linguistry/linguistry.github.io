@@ -6,7 +6,7 @@ author_profile: true
 sidebar_main: true
 ---
 
-### Journals
+# Journals
 #### Language Assessment Journals
 + [Language Testing](https://journals.sagepub.com/home/ltj)
 + [Language Assessment Quarterly](https://www.tandfonline.com/toc/hlaq20/current)
@@ -15,7 +15,7 @@ sidebar_main: true
 #### Educational Measurement Journals
 + [Practical Assessment, Research & Evaluation (PARE)](http://pareonline.net/)
 
-### Online Lectures
+# Online Lectures
 
 #### Natural Langauge Processing
 + [Standford CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
