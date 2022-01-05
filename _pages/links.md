@@ -13,7 +13,7 @@ sidebar_main: true
 
 
 **Educational Measurement Journals**
-+ [Practical Assessment, Research & Evaluation (PARE)](http://pareonline.net/)
++ [Practical Assessment, Research & Evaluation (PARE)](https://scholarworks.umass.edu/pare/)
 
 
 **Lectures**
