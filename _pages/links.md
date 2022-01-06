@@ -11,10 +11,8 @@ sidebar_main: true
 + [Language Assessment Quarterly](https://www.tandfonline.com/toc/hlaq20/current)
 + [Language Testing in Asia](https://languagetestingasia.springeropen.com/about)
 
-
 **Educational Measurement Journals**
 + [Practical Assessment, Research & Evaluation (PARE)](https://scholarworks.umass.edu/pare/)
-
 
 **Lectures**
 + [Standford CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
