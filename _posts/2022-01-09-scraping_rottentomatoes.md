@@ -2,7 +2,7 @@
 layout: single
 title: "Scraping: Movie Reviews"
 categories: '2022'
-tag: [python, scraping, crawling, coding, colab]
+tag: [python, scraping, coding, colab]
 ---
 
 ### Web crawling: Movie Reviews 
