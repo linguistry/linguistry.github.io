@@ -144,12 +144,18 @@ footer:
    # - label: "Facebook"
     #  icon: "fab fa-fw fa-facebook-square"
       # url:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto: lin.guist.ry+github@gmail.com" 
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=DPPmVCkAAAAJ&hl=en&authuser=1"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/linguistry"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCnFDwiUJnlQcIkxOW6XeHQA/playlists"
     #- label: "GitLab"
     #  icon: "fab fa-fw fa-gitlab"
       # url:
