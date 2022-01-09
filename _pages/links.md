@@ -24,3 +24,6 @@ sidebar_main: true
 **Language Assessment & Data Analysis Lectures**
 + [Dr. Vahid Aryadoust's Language Assessment & Technology Playlist](https://youtube.com/playlist?list=PLTjlULGD9bNJi1NtMfKjr7umeKdQR9DGO)
 + [Dr. Andy Field's SPSS Tutorials](https://youtube.com/playlist?list=PL25257A24840423AE)
+
+**Mathematics**
++ [3Blue1Brown](https://www.3blue1brown.com)
