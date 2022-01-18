@@ -91,7 +91,7 @@ transcript
 ```
 ### Export the transcript file 
 ```python 
-text_file = open(os.path.join(data_dir, "transcript_filename.doc"), "w")
+text_file = open(os.path.join(data_dir, "transcript_filename.txt"), "w")
 text_file.write(transcript)
 text_file.close()
 ```
