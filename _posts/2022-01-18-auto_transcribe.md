@@ -84,7 +84,7 @@ def transcribe_audio_file(audio_input):
 filename = os.path.join(data_dir, 'audio_filename.wav')
 print(filename)
 ```
-### Run a function 
+### Run the function 
 ```python 
 transcript = transcribe_audio_file(input_audio)
 transcript
