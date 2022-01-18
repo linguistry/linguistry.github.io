@@ -81,7 +81,7 @@ def transcribe_audio_file(audio_input):
 ```
 ##### Load wav file
 ```python 
-filename = os.path.join(data_dir, 'audiofile_name.wav')
+filename = os.path.join(data_dir, 'audio_filename.wav')
 print(filename)
 ```
 ### Run a function 
@@ -91,7 +91,7 @@ transcript
 ```
 ### Export the transcript file 
 ```python 
-text_file = open(os.path.join(data_dir, "pilot_03.doc"), "w")
+text_file = open(os.path.join(data_dir, "transcript_filename.doc"), "w")
 text_file.write(transcript)
 text_file.close()
 ```
