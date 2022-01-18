@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Scraping: Movie Reviews"
+title: "scraping: movie reviews"
 categories: '2022'
 tag: [python, scraping, coding, colab]
 ---
