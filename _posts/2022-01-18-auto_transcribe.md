@@ -6,7 +6,7 @@ tag: [python, transcribe, speech recognition, google, 음성인식, 전사]
 ---
 
 ### Auto transcribe (English spoken data) 
-This is a python code in Colab to automatically transcribe wav file in English using SpeechRecognition library (https://pypi.org/project/SpeechRecognition/). Following code is modified from https://www.thepythoncode.com/code/using-speech-recognition-to-convert-speech-to-text-python .
+This is a python code in Colab to automatically transcribe the wav file in English using SpeechRecognition library (https://pypi.org/project/SpeechRecognition/). 
 
 
 ##### Mount drive in Colab
@@ -39,6 +39,7 @@ from pydub.silence import split_on_silence
 r = sr.Recognizer()
 ```
 
+The following function code is modified from https://www.thepythoncode.com/code/using-speech-recognition-to-convert-speech-to-text-python .
 ##### make a function to split the audio file into chunks and apply speech recognition
 ```python
 # split the audio file into chunks 
