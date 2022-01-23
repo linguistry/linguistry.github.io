@@ -5,8 +5,7 @@ categories: '2022'
 tag: [python, subtitle, YouTube, corpus]
 ---
 
-### Auto transcribe (English spoken data) 
-This is a python code in Colab to extract subtitles in Youtube (singl) videos using using SpeechRecognition library (https://pypi.org/project/SpeechRecognition/). 
+This is a python code in Colab to extract subtitles in a Youtube (single) video using using Data API. 
 
 
 ##### Mount drive in Colab
@@ -66,4 +65,4 @@ df = pandas.DataFrame(prompts, columns =['time', 'subtitle'])
 df.to_excel(os.path.join(data_dir,'FileName.xlsx'), index=None)
 df
 ```
-![](2022-01-23-14-57-10.png)
+![](./assests/images/2022-01-23-14-57-10.png)
