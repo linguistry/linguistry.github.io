@@ -5,7 +5,7 @@ categories: '2022'
 tag: [python, subtitle, YouTube, corpus]
 ---
 
-This is a python code in Colab to extract subtitles in a Youtube (single) video using using Data API. 
+This is a python code in Colab to extract subtitles in a Youtube (single) video using Data API. 
 
 
 ##### Mount drive in Colab
