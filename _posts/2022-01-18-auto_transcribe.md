@@ -6,6 +6,7 @@ tag: [python, transcribe, speech recognition, google, 음성인식, 전사]
 ---
 
 ### Auto transcribe (English spoken data) 
+영어 음성파일 자동 전사 
 This is a python code in Colab to automatically transcribe the wav file in English using SpeechRecognition library (https://pypi.org/project/SpeechRecognition/). 
 
 

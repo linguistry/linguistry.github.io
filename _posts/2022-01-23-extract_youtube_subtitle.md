@@ -5,6 +5,8 @@ categories: '2022'
 tag: [python, subtitle, YouTube, corpus]
 ---
 
+유튜브 자막 긁어오기(개별 비디오 클립)
+
 This is a python code in Colab to extract subtitles in a Youtube (single) video using YouTube API. 
 
 

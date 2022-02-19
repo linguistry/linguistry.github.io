@@ -6,6 +6,8 @@ tag: [python, scraping, coding, colab]
 ---
 
 ### Web crawling: Movie Reviews 
+영화 리뷰 텍스트 크롤링
+
 This is a python code in Colab to extract individual movie review comments from Rotten Tomatoes site https://www.rottentomatoes.com 
 
 ##### Mount Drive in Colab
