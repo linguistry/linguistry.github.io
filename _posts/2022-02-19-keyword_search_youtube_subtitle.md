@@ -68,8 +68,6 @@ titles = []
 i = 1 # Add numbering before "title"
 for t in response["items"]:
   video_ids += {t["id"]["videoId"]}
-  # titles += {t["snippet"]["title"]}
-
   ttl = t["snippet"]["title"]
   title = str(i) + "_" + ttl 
   # print(title)
@@ -87,7 +85,7 @@ print(video_titles)
 ### function 
 def make_transcript(video_id): 
   try: 
-      subtitles = YouTubeTranscriptApi.get_transcript(video_id) #, languages=['en'])  # 'en', 'en-US'
+      subtitles = YouTubeTranscriptApi.get_transcript(video_id, languages=['en'])  
       prompts = []
       words = []
       
