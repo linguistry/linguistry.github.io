@@ -27,3 +27,10 @@ sidebar_main: true
 
 **Mathematics**
 + [3Blue1Brown](https://www.3blue1brown.com)
+
+**Online Books**
++ [Bird, S., Klein, E., & Loper, E. (2009), Natural language processing with python. O’Reilly Media Inc.](https://www.nltk.org/book/)
++ [Silge, J., & Robinson, D. (2017). Text mining with R: A tidy approach. O’Reilly Media, Inc.](https://www.tidytextmining.com/index.html)
++ [Gareth, J., Daniela, W., Trevor, H., & Robert, T. (2021). An introduction to statistical learning: with applications in R(2nd Ed.). Spinger.](https://www.statlearning.com/)
++ [Tidy Modeling with R](https://www.tmwr.org/)
+
