@@ -20,8 +20,8 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "Classes"
-    url: /classes/
+  # - title: "Classes"
+  #   url: /classes/
   - title: "Links"
     url: /link/
 
