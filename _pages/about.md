@@ -12,6 +12,7 @@ I am a visiting researcher at the [Center for Educational Research, Seoul Nation
 + PhD in Applied Linguistics (Language Assessment), Iowa State University, Ames, IA, USA.  
 
 #### Publications
+##### Articles
 + [Kim, S., Ryu, N., & **Won**, Y.(2021). Reliability of web-based French phoneme perception test. *Journal of Digital Contents Society, 22*(12), 2099-2109.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002793700)
 + [Kim, S., Kim, H., Lee, Y., Kim, B., **Won**, Y., & Kim, B. (2021). Designing a large recording script for open-domain English speech synthesis. *Phonetics and Speech Sciences, 13*(3), 65-70.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002763121)
 + [**Won**, Y. (2021). Differential use of reporting verbs in academic papers and personal blogs. *English Language & Literature Teaching, 27*(3), 89-107.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002757483)
@@ -20,6 +21,9 @@ I am a visiting researcher at the [Center for Educational Research, Seoul Nation
 + [**Won**, Y. (2020). The effect of task complexity on test-takers’ performance in a performance-based L2 oral communication test for international teaching assistants. *Journal of the Korea English Education Society, 19*(1), 27-52.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002559997)  
 + [**Won**, Y. (2019). The prediction of writing scores using vocabulary features in ESL university students’ essays. *Modern English Education, 20*(4), 31-40.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002526263)  
 + **Won**, Y. (2008). Developing ELT vocabulary materials for high school teachers using English dictionaries on CD-ROM. *Journal of Korealex, 12*. 209-254.
+
+##### Book Chapter 
++ [김주혜, 김영우, 박광현, 안현기, **원용국**, 최정혜. (2022). 인공지능기술 활용 언어교육(AI Technology for Language Education), 교육과학사. (Written in Korean)](http://www.kyoyookbook.co.kr/shop/item.php?it_id=1646977440) 
 
 #### Courses
 + [English Education & Big Data, Fall 2021 - Spring 2022, International Graduate School of English](https://drive.google.com/file/d/1UBmTCIvtJws2IcoYs4djZQWmezsCS-Se/view?usp=sharing), Seoul, S. Korea.
