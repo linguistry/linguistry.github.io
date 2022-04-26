@@ -31,7 +31,7 @@ voca = pd.read_excel(os.path.join(data_dir, "input_words.xlsx"))
 voca.head()
 ```
 
-##### Prepara Corpora 
+##### Prepare Corpora 
 ```python
 # Corpora in NLTK
 import nltk
@@ -59,19 +59,7 @@ corpus.extend(nltk.corpus.genesis.sents())
 corpus_sent = [" ".join(list_of_words) for list_of_words in corpus]
 
 ```
-##### Find Sentences
-```python
-# build(YOUTUBE_API_SERVICE_NAME, YOUTUBE_API_VERSION, API_KEY)
-api_obj = build('youtube', 'v3', developerKey=api_key)
-request = api_obj.search().list(
-    q = SearchQuery, 
-    order = "viewCount",      # viewCount, date, rating, relevance, title, videoCount
-    part = "snippet",
-    type = "video",  # video, playlist, channel
-    maxResults=10) # first 10 video clips by view counts
-response = request.execute()
-```
-##### Extract sentence index function
+##### Find sentence indices
 ```python
 # "lines=" indicate the number of sentences to be extracted.
 
@@ -91,7 +79,7 @@ def sent_find(word, corpus, lines = 2):
       pass 
 ```
 
-##### Extract sentences with indices
+##### Replace indices with sentences
 ```python
 ### function 
 def sent_extract(sent_nos, corpus):
