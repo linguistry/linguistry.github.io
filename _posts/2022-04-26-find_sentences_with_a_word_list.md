@@ -96,6 +96,8 @@ def sent_extract(sent_nos, corpus):
 ##### Run the function
 ```python 
 voca["Sent_No"] = voca["Word"].apply(lambda x: sent_find(x, corpus_sent, 2)) # two sentences
+voca["Sentences"] = voca["Sent_No"].apply(lambda x: sent_extract(x, corpus_sent))
+voca.head()
 
 voca_book = voca[["No", "Word", "Meaning", "Sentences"]]
 voca_book.to_excel(os.path.join(data_dir, 'output_sent_nltkCorpus.xlsx'))
