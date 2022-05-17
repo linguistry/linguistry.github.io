@@ -20,6 +20,7 @@ sidebar_main: true
 + [Standford CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 + [Standford CS224U: Natural Language Understanding](https://web.stanford.edu/class/cs224u/)
 + [CMU CS 11-777, Fall 2020, MultiModal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-course/fall2020/)
++ [고려대학교 산업경영공학학부  DSBA연구실 (한국어 강의, Korean)](https://www.youtube.com/channel/UCPq01cgCcEwhXl7BvcwIQyg)
 
 **Language Assessment & Data Analysis Lectures**
 + [Dr. Vahid Aryadoust's Language Assessment & Technology Playlist](https://youtube.com/playlist?list=PLTjlULGD9bNJi1NtMfKjr7umeKdQR9DGO)
