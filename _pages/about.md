@@ -6,10 +6,11 @@ author_profile: true
 sidebar_main: true
 ---
 
-I am a visiting researcher at the [Center for Educational Research, Seoul National University](http://eduresearch.snu.ac.kr/main/main.php) and a lecturer at the [International Graduate School of English](https://igse.ac.kr/en/). My recent research focuses on investigating fairness in language testing, automated essay/speech assessment, and on enhancing language teaching and learning using Computer-Assisted Language Learning (CALL) tools.  
+I am a visiting researcher at the [Center for Educational Research, Seoul National University](http://eduresearch.snu.ac.kr/main/main.php) and teaches *English Education and Big Data* course for graduate students at the [International Graduate School of English](https://igse.ac.kr/en/). My recent research focuses on investigating fairness in language testing, automated essay/speech assessment, and enhancing language teaching and learning using AI-Assisted Language Learning tools.  
 
 #### Education
 + PhD in Applied Linguistics (Language Assessment), Iowa State University, Ames, IA, USA.  
++ B.S. in Information Statistics, Korea National Open University, Seoul, Korea.
 
 #### Publications
 ##### Articles
