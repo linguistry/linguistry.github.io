@@ -1,5 +1,5 @@
 ---
-title: "교육|특강"
+title: "교육특강"
 layout: archive
 permalink: /advising/
 author_profile: true
