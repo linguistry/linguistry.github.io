@@ -1,5 +1,5 @@
 ---
-title: "교육특강"
+title: "컨설팅/교육 문의"
 layout: archive
 permalink: /advising/
 author_profile: true
