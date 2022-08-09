@@ -29,7 +29,7 @@ sidebar_main: true
 + 김주혜, 김영우, 박광현, 안현기, **원용국**, 최정혜. (2022). 인공지능기술 활용 언어교육(AI Technology for Language Education), 교육과학사. [(출판사)](http://www.kyoyookbook.co.kr/shop/item.php?it_id=1646977440) 
 
 ##### Research Reports
-+ Kang, O.k Hirschi, K., Miao, Y., Ahn, H., & **Won**, Y. (2022). Test-takers’ IELTS preparations, their attitudes towards IELTS practices, and the use of technologies in the global pandemic. * IELTS Research Reports Online Series, No. 2/22*. British Council, Cambridge Assessment English and IDP: IELTS Australia. Available at [https://www.ielts.org/for-researchers/research-reports/online-series-2022-2)(https://www.ielts.org/for-researchers/research-reports/online-series-2022-2)
++ Kang, O.k Hirschi, K., Miao, Y., Ahn, H., & **Won**, Y. (2022). Test-takers’ IELTS preparations, their attitudes towards IELTS practices, and the use of technologies in the global pandemic. *IELTS Research Reports Online Series, No. 2/22*. British Council, Cambridge Assessment English and IDP: IELTS Australia. Available at [(IELTS)](https://www.ielts.org/for-researchers/research-reports/online-series-2022-2)
 
 #### Courses
 + English Education & Big Data, Fall 2021 - Spring 2022, International Graduate School of English, Seoul, S. Korea. [(강의계획서)](https://drive.google.com/file/d/1UBmTCIvtJws2IcoYs4djZQWmezsCS-Se/view?usp=sharing)
