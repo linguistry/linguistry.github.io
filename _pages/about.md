@@ -6,7 +6,6 @@ author_profile: true
 sidebar_main: true
 ---
 
-+ Visiting researcher at the [Center for Educational Research, Seoul National University](http://eduresearch.snu.ac.kr/main/main.php) 
 + Instructor of *English Education and Big Data* course for graduate students at the [International Graduate School of English](https://igse.ac.kr/en/). 
 + Primary research area : Fairness in language testing, automated essay/speech assessment, AI-assisted language Learning.  
 
@@ -31,15 +30,16 @@ sidebar_main: true
 ##### Research Reports
 + Kang, O.k Hirschi, K., Miao, Y., Ahn, H., & **Won**, Y. (2022). Test-takers’ IELTS preparations, their attitudes towards IELTS practices, and the use of technologies in the global pandemic. *IELTS Research Reports Online Series, No. 2/22*. British Council, Cambridge Assessment English and IDP: IELTS Australia. Available at [(IELTS)](https://www.ielts.org/for-researchers/research-reports/online-series-2022-2)
 
-#### Courses
+##### Grants
++ National Research Foundation of Korea Grant (PI). A study on the developmental stages of elementary schooler’ English speaking proficiency for the development of an automated speech scoring system. 2022-2024. 
++ National Research Foundation of Korea Grant (PhD researcher). A study on English speaking assessment and feedback method for adaptive language learning using voice chatbot. 2021-2023. 
++ National Research Foundation of Korea Grant (PI). Application of machine learning algorithms into the development of automated essay scoring and feedback systems. 2021-2022. 
+
+#### Teaching
++ Research Methods & Data Coding, Fall 2022, International Graduate School of English, Seoul, S. Korea.
 + English Education & Big Data, Fall 2021 - Spring 2022, International Graduate School of English, Seoul, S. Korea. [(강의계획서)](https://drive.google.com/file/d/1UBmTCIvtJws2IcoYs4djZQWmezsCS-Se/view?usp=sharing)
 + Academic English for Graduate Students, Fall 2015 - Spring 2019. Iowa State University, Ames, IA, USA. 
 + Academic English for Undergraduate Students, Fall 2013 - Spring 2015. Iowa State University, Ames, IA, USA.
 
 #### Workshops  
 + (Nov. 2020) Introduction to Text Data Analysis. [(워크숍영상)](https://youtube.com/playlist?list=PLEiZtveAYKFnU9fqjneGyYCroMH8hzoNP) (in Korean)
-
-#### 컨설팅 및 교육 문의 
-+ 논문 작성법
-+ 언어평가 개발 및 검정
-+ 인문, 사회, 교육통계 분석 (CTT, IRT, MFRM)
