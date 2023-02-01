@@ -6,7 +6,7 @@ author_profile: true
 sidebar_main: true
 ---
 
-+ Instructor of *English Education and Big Data* course for graduate students at the [International Graduate School of English](https://igse.ac.kr/en/). 
++ Instructor of *English Education and Big Data* and *Language Assessment Using AI* courses for graduate students at the [International Graduate School of English](https://igse.ac.kr/en/). 
 + Primary research area : Fairness in language testing, automated essay/speech assessment, AI-assisted language Learning.  
 
 #### Education
