@@ -15,6 +15,7 @@ sidebar_main: true
 
 #### Publications
 ##### Articles
++ **Won**, Y., & Kim, S.(2023). The impact of topic selection on lexico-grammatical errors and scores in English oral proficiency interviews of Korean college students. *Education Sciences, 13*(7), 695. [(ESCI)](https://doi.org/10.3390/educsci13070695)
 + Kim, S., Ryu, N., & **Won**, Y.(2021). Reliability of web-based French phoneme perception test. *Journal of Digital Contents Society, 22*(12), 2099-2109. [(KCI)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002793700)
 + Kim, S., Kim, H., Lee, Y., Kim, B., **Won**, Y., & Kim, B. (2021). Designing a large recording script for open-domain English speech synthesis. *Phonetics and Speech Sciences, 13*(3), 65-70. [(KCI)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002763121)
 + **Won**, Y. (2021). Differential use of reporting verbs in academic papers and personal blogs. *English Language & Literature Teaching, 27*(3), 89-107. [(KCI)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002757483)
