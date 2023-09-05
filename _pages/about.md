@@ -6,7 +6,7 @@ author_profile: true
 sidebar_main: true
 ---
 
-+ Instructor of *English Education and Big Data* and *Language Assessment Using AI* courses for graduate students at the [International Graduate School of English](https://igse.ac.kr/en/). 
++ Instructor of *English Education and Big Data* and *Language Assessment Using AI* courses for graduate students at the [International Graduate School of Language Education](https://igse.ac.kr/en/). 
 + Primary research area : Fairness in language testing, automated essay/speech assessment, AI-assisted language Learning.  
 
 #### Education
@@ -38,7 +38,8 @@ sidebar_main: true
 
 #### Teaching
 + Language Assessment Using AI, Spring 2023, International Graduate School of English, Seoul, S. Korea.
-+ Research Methods & Data Coding, Fall 2022, International Graduate School of English, Seoul, S. Korea.
++ AI and Language Education, Fall 2022 & Fall 2023, Korea Cyber University, Seoul, S. Korea.
++ Research Methods & Data Coding, Fall 2022 & Fall 2023, International Graduate School of English, Seoul, S. Korea.
 + English Education & Big Data, Fall 2021 - Spring 2022, International Graduate School of English, Seoul, S. Korea. [(강의계획서)](https://drive.google.com/file/d/1UBmTCIvtJws2IcoYs4djZQWmezsCS-Se/view?usp=sharing)
 + Academic English for Graduate Students, Fall 2015 - Spring 2019. Iowa State University, Ames, IA, USA. 
 + Academic English for Undergraduate Students, Fall 2013 - Spring 2015. Iowa State University, Ames, IA, USA.
