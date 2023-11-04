@@ -18,7 +18,7 @@ import shutil
 df = pd.read_excel('file_list.xlsx')
 df
 ```
-![파일리스트]!(https://github.com/linguistry/linguistry.github.io/assets/59856081/ec2b560b-343b-4ef7-91cc-6073bc4581bd)
+![파일리스트](https://github.com/linguistry/linguistry.github.io/assets/59856081/ec2b560b-343b-4ef7-91cc-6073bc4581bd)
 
 
 ```python
