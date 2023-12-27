@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark",
 locale                   : "en-US"
 title                    : "Linguistry Lab" 
 title_separator          : "|"
-subtitle                 : "Language Assessment & Text Data Analysis"
+subtitle                 : "Language Assessment & Text Analytics"
 name                     : "Yongkook Won"
 description              : "Research and Teaching Notes"
 url                      : "https://linguistry.github.io"
@@ -105,7 +105,7 @@ author:
   name             : "Yongkook Won"
   # avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   avatar           : "/assets/images/wonpic.jpg"
-  bio              : "PhD in Applied Linguistics: Automated Language Assessment, Performance Language Assessment"
+  bio              : "PhD in Applied Linguistics: Automated Language Assessment, Performance Language Assessment, Text Analytics"
   location         : "Seoul, South Korea"
   email            :
   links:
