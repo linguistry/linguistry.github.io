@@ -15,7 +15,7 @@ sidebar_main: true
 
 #### Publications
 ##### Articles
-+ **Won**, Y. (2023). Applicability of fine-tuned ChatGPT to automated essay scoring. *English Language Assessment, 18*(2), 235-254. [(KCI)](https://doi.org/10.37244/ela.2023.18.2.11) [(Supplementary Materials)](https://github.com/linguistry/Fine-Tuned_ChatGPT_Essay_Scoring) 
++ **Won**, Y. (2023). Applicability of fine-tuned ChatGPT to automated essay scoring. *English Language Assessment, 18*(2), 11-35. [(KCI)](https://doi.org/10.37244/ela.2023.18.2.11) [(Supplementary Materials)](https://github.com/linguistry/Fine-Tuned_ChatGPT_Essay_Scoring) 
 + **Won**, Y., & Kim, S.(2023). The impact of topic selection on lexico-grammatical errors and scores in English oral proficiency interviews of Korean college students. *Education Sciences, 13*(7), 695. [(ESCI)](https://doi.org/10.3390/educsci13070695)
 + Kim, S., Ryu, N., & **Won**, Y.(2021). Reliability of web-based French phoneme perception test. *Journal of Digital Contents Society, 22*(12), 2099-2109. [(KCI)](https://doi.org/10.9728/dcs.2021.22.12.2099)
 + Kim, S., Kim, H., Lee, Y., Kim, B., **Won**, Y., & Kim, B. (2021). Designing a large recording script for open-domain English speech synthesis. *Phonetics and Speech Sciences, 13*(3), 65-70. [(KCI)](https://doi.org/10.13064/KSSS.2021.13.3.065)
