@@ -20,6 +20,8 @@ main:
     url: /tags/
   - title: "Links"
     url: /link/
+  - title: "Books"
+    url: /books/    
   - title: "About"
     url: /about/
   # - title: "컨설팅 교육"

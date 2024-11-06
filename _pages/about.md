@@ -40,7 +40,7 @@ sidebar_main: true
 
 #### Teaching
 + Language Assessment Using AI, Spring 2023, International Graduate School of English, Seoul, S. Korea.
-+ AI and Language Education, Fall 2022 & Fall 2023, Korea Cyber University, Seoul, S. Korea.
++ AI and Language Education, Fall 2022 - Fall 2024, Korea Cyber University, Seoul, S. Korea.
 + Research Methods & Data Coding, Fall 2022 & Fall 2023, International Graduate School of English, Seoul, S. Korea.
 + English Education & Big Data, Fall 2021 - Spring 2022, International Graduate School of English, Seoul, S. Korea. [(강의계획서)](https://drive.google.com/file/d/1UBmTCIvtJws2IcoYs4djZQWmezsCS-Se/view?usp=sharing)
 + Academic English for Graduate Students, Fall 2015 - Spring 2019. Iowa State University, Ames, IA, USA. 
