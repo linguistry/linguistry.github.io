@@ -15,6 +15,7 @@ sidebar_main: true
 
 #### Publications
 ##### Articles
++ 김영우, **원용국** (2025). 빅데이터 분석 기법을 활용한 영어교육 관련 언론 기사 분석. *한국콘텐츠학회논문지, 25*(4), 49-58. [(KCI)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003196157)
 + Kim, Y. & **Won**, Y. (2024). An analysis of the topics of English education articles published in Korean scholarly journals. *Journal of the Korea Contents Association, 24*(4), 519-530. [(KCI)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003074032)
 + **Won**, Y. (2023). Applicability of fine-tuned ChatGPT to automated essay scoring. *English Language Assessment, 18*(2), 11-35. [(KCI)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003026386) [(Supplementary Materials)](https://github.com/linguistry/Fine-Tuned_ChatGPT_Essay_Scoring) 
 + **Won**, Y., & Kim, S.(2023). The impact of topic selection on lexico-grammatical errors and scores in English oral proficiency interviews of Korean college students. *Education Sciences, 13*(7), 695. [(ESCI)](https://doi.org/10.3390/educsci13070695)
