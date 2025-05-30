@@ -15,6 +15,8 @@ sidebar_main: true
 
 #### Publications
 ##### Articles
+
++ **Won**, Y., & Kim, S.(2025). Investigating the impact of interlocutor type on English oral proficiency interviews: A comparative analysis of chatbot and human interlocutors. *Korean Journal of English Language and Linguistics 25*, 661-685. [(SCOPUS, KCI)](https://doi.org/10.15738/kjell.25..202505.661)
 + Kim, Y. & **Won**, Y. (2025). 빅데이터 분석 기법을 활용한 영어교육 관련 언론 기사 분석 [Analysis of English education-related news articles using big data analysis techniques]. *Journal of the Korea Contents Association, 25*(4), 49-58. [(KCI)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003196157)
 + Kim, Y. & **Won**, Y. (2024). 국내 학술지 영어교육 논문의 주제 분석 [An analysis of the topics of English education articles published in Korean scholarly journals]. *Journal of the Korea Contents Association, 24*(4), 519-530. [(KCI)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003074032)
 + **Won**, Y. (2023). Applicability of fine-tuned ChatGPT to automated essay scoring. *English Language Assessment, 18*(2), 11-35. [(KCI)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003026386) [(Supplementary Materials)](https://github.com/linguistry/Fine-Tuned_ChatGPT_Essay_Scoring) 
