@@ -29,7 +29,6 @@ sidebar_main: true
 + **Won**, Y. (2020). The influence of raters’ topic familiarity on rater severity in a teaching simulation test for international teaching assistants. *English Language Assessment, 15*(2), 235-254. [(KCI)](https://doi.org/10.37244/ela.2020.15.2.235)  
 + **Won**, Y. (2020). The effect of task complexity on test-takers’ performance in a performance-based L2 oral communication test for international teaching assistants. *Journal of the Korea English Education Society, 19*(1), 27-52.[(KCI)](https://doi.org/10.18649/jkees.2020.19.1.27)  
 + **Won**, Y. (2019). The prediction of writing scores using vocabulary features in ESL university students’ essays. *Modern English Education, 20*(4), 31-40. [(KCI)](https://doi.org/10.18095/meeso.2019.20.4.31)  
-+ **Won**, Y. (2008). Developing ELT vocabulary materials for high school teachers using English dictionaries on CD-ROM. *Journal of Korealex, 12*. 209-254.
 
 ##### Book Chapter 
 + 김주혜, 김영우, 박광현, 안현기, **원용국**, 최정혜. (2022). 인공지능기술 활용 언어교육 [AI Technology for Language Education], 교육과학사. [(출판사)](http://www.kyoyookbook.co.kr/shop/item.php?it_id=1646977440) 
