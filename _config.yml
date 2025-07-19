@@ -22,7 +22,7 @@ subtitle                 : "Language Assessment & Text Analytics"
 name                     : "Yongkook Won"
 description              : "Research and Teaching Notes"
 url                      : "https://linguistry.github.io"
-baseurl                  : "/about" #update_20250719
+baseurl                  : #"https://linguistry.github.io/about" #update_20250719
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # "/assets/images/wonpic.jpg"
