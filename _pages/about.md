@@ -16,7 +16,7 @@ sidebar_main: true
 #### Publications
 ##### Articles
 
-+ **Won**, Y.(2025). The impact of functional load and phoneme position on automated pronunciation assessment in young Korean EFL learners. *System*. [(SSCI)](https://doi.org/) [(Supplementary Materials)](https://osf.io/xq72u/?view_only=ef125416abcc4ea1a6e549a21f443b90)
++ **Won**, Y.(forthcoming). The impact of functional load and phoneme position on automated pronunciation assessment in young Korean EFL learners. *System*. [(SSCI)](https://doi.org/) [(Supplementary Materials)](https://osf.io/xq72u/?view_only=ef125416abcc4ea1a6e549a21f443b90)
 + **Won**, Y.(2025). Assessing the efficacy of word error rate as a proxy for pronunciation quality: A comparative study of ASR systems and human evaluations among young EFL learners. *Journal of Second Language Pronunciation*. [(SCOPUS)](https://doi.org/10.1075/jslp.25012.won) [(Supplementary Materials)](https://github.com/linguistry/WER_proxy_for_pronunciation_quality)
 + **Won**, Y., & Kim, S.(2025). Investigating the impact of interlocutor type on English oral proficiency interviews: A comparative analysis of chatbot and human interlocutors. *Korean Journal of English Language and Linguistics 25*, 661-685. [(SCOPUS)](http://journal.kasell.or.kr/_common/do.php?a=full&b=22&bidx=3948&aidx=45091)
 + Kim, Y. & **Won**, Y. (2025). 빅데이터 분석 기법을 활용한 영어교육 관련 언론 기사 분석 [Analysis of English education-related news articles using big data analysis techniques]. *Journal of the Korea Contents Association, 25*(4), 49-58. [(KCI)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003196157)
