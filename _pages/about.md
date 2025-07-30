@@ -28,7 +28,7 @@ sidebar_main: true
 + **Won**, Y. (2021). Differential use of reporting verbs in academic papers and personal blogs. *English Language & Literature Teaching, 27*(3), 89-107. [(KCI)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002757483)
 + **Won**, Y., & Kim, Y. (2021). 토픽 모델링을 활용한 한국 영어교육 학술지에 나타난 연구동향 분석 [Analysis of research trends in Korean English education journals using topic modeling]. *Journal of the Korea Contents Association, 21*(4), 50-59. [(KCI)](https://doi.org/10.5392/JKCA.2021.21.04.050)
 + **Won**, Y. (2020). The influence of raters’ topic familiarity on rater severity in a teaching simulation test for international teaching assistants. *English Language Assessment, 15*(2), 235-254. [(KCI)](https://doi.org/10.37244/ela.2020.15.2.235)  
-+ **Won**, Y. (2020). The effect of task complexity on test-takers’ performance in a performance-based L2 oral communication test for international teaching assistants. *Journal of the Korea English Education Society, 19*(1), 27-52.[(KCI)](https://doi.org/10.18649/jkees.2020.19.1.27)  
++ **Won**, Y. (2020). The effect of task complexity on test-takers’ performance in a performance-based L2 oral communication test for international teaching assistants. *Journal of the Korea English Education Society, 19*(1), 27-52. [(KCI)](https://doi.org/10.18649/jkees.2020.19.1.27)  
 + **Won**, Y. (2019). The prediction of writing scores using vocabulary features in ESL university students’ essays. *Modern English Education, 20*(4), 31-40. [(KCI)](https://doi.org/10.18095/meeso.2019.20.4.31)  
 
 ##### Book Chapter 
