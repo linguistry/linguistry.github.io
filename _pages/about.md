@@ -43,10 +43,12 @@ sidebar_main: true
 + National Research Foundation of Korea Grant (PI). Application of machine learning algorithms into the development of automated essay scoring and feedback systems. 2021-2022. 
 
 #### Teaching
-+ Language Assessment Using AI, Spring 2023 - Spring 2025, International Graduate School of Language Education, Seoul, S. Korea.
-+ AI and Language Education, Fall 2022 - Fall 2024, Korea Cyber University, Seoul, S. Korea.
-+ Research Methods & Data Coding, Fall 2022 - Fall 2024, International Graduate School of Language Education, Seoul, S. Korea.
++ Introduction to Corpus Linguistics, Fall 2025, International Graduate School of Language Education, Seoul, S. Korea.
++ Language Assessment Using AI, Spring 2023 - Fall 2025, International Graduate School of Language Education, Seoul, S. Korea.
++ AI and Language Education, Fall 2022 - Fall 2025, Korea Cyber University, Seoul, S. Korea.
++ Research Methods & Data Coding, Fall 2022 - Fall 2025, International Graduate School of Language Education, Seoul, S. Korea.
 + English Education & Big Data, Fall 2021 - Fall 2024, International Graduate School of Language Education, Seoul, S. Korea. [(강의계획서)](https://drive.google.com/file/d/1UBmTCIvtJws2IcoYs4djZQWmezsCS-Se/view?usp=sharing)
++ AI-based Language Education, Fall 2022, Seoul National University, Seoul, S. Korea.
 + Academic English for Graduate Students, Fall 2015 - Spring 2019. Iowa State University, Ames, IA, USA. 
 + Academic English for Undergraduate Students, Fall 2013 - Spring 2015. Iowa State University, Ames, IA, USA.
 
