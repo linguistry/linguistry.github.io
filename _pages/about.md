@@ -10,7 +10,8 @@ sidebar_main: true
 + Primary research area : Fairness in language testing, automated essay/speech assessment, AI-assisted language Learning.  
 
 #### Education
-+ PhD in Applied Linguistics (Language Assessment), Iowa State University, Ames, IA, USA.  
++ PhD in Applied Linguistics (Language Assessment), Iowa State University, Ames, IA, USA.
++ MA in English Language Teaching Materials Development, International Graduate School of English, Seoul, Korea. 
 + BS in Information Statistics, Korea National Open University, Seoul, Korea.
 + BA in Law, Korea National Open University, Seoul, Korea. 
 
