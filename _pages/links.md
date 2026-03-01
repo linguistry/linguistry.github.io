@@ -35,3 +35,5 @@ sidebar_main: true
 + [Gareth, J., Daniela, W., Trevor, H., & Robert, T. (2021). An introduction to statistical learning: with applications in R(2nd Ed.). Spinger.](https://www.statlearning.com/)
 + [Tidy Modeling with R](https://www.tmwr.org/)
 
+**Pronunciation Studies**
++ [Youglish.com](https://youglish.com/)
