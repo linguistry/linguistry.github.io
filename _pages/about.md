@@ -6,7 +6,7 @@ author_profile: true
 sidebar_main: true
 ---
 
-+ Instructor of *English Education and Big Data* and *Language Assessment Using AI* courses for graduate students at the [International Graduate School of Language Education](https://igse.ac.kr/en/). 
++ Assistant Professor, Department of English Language Education, Hanyang University, Seoul, Korea. 
 + Primary research area : Fairness in language testing, automated essay/speech assessment, AI-assisted language Learning.  
 
 #### Education
